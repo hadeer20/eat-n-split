@@ -37,3 +37,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/hadeer20/eat-n-split.git
 ```
+
+## Live Demo
+
+🚀 [View the Live Project](https://eat-n-split-psi-lac.vercel.app/)
